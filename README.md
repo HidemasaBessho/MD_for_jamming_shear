@@ -1,6 +1,6 @@
 # MD_for_jamming_shear
 
-"constP" is the simualtion code under the constant pressure condition. The reference is below[1,2].
+"[constP](https://github.com/HidemasaBessho/MD_for_jamming_shear/tree/main/constP)" is the simualtion code under the constant pressure condition. The reference is below[1,2].
 
 ・[FIRE_constP.cpp](https://github.com/HidemasaBessho/MD_for_jamming_shear/blob/main/constP/FIRE_constP.cpp) is FIRE algorithm under the constant pressure condition for harmonic sphere potential.
 
